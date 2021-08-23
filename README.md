@@ -19,7 +19,7 @@ pip install better_profanity
 
 ## Usage
 
-Now, Locate the Twitter_profanity_analysis file. If you wish to add more words you can do it easily by opening the Twitter_profanity_analysis file and add your words in the bad_words list.
+Now, Locate the Twitter_profanity_analysis.py file. If you wish to add more words you can do it easily by opening the Twitter_profanity_analysis.py file and add your words in the bad_words list.
 
 ```python
 
